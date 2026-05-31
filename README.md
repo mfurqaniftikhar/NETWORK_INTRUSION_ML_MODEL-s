@@ -301,10 +301,6 @@ network-intrusion-detection/
 ├── network_intrusion_detection_complete_project.ipynb  # Main notebook
 ├── README.md                                            # Project documentation
 │
-├── data/
-│   ├── KDDTrain+.txt                                   # Training dataset
-│   └── KDDTest+.txt                                    # Test dataset
-│
 ├── visualizations/                                      # Generated plots
 │   ├── 01_attack_distribution.png
 │   ├── 02_correlation_heatmap.png
@@ -316,16 +312,7 @@ network-intrusion-detection/
 │   ├── 08_confusion_matrix.png
 │   ├── 09_roc_auc_curves.png
 │   └── 10_classification_report.png
-│
-├── models/                                              # Trained models
-│   ├── intrusion_detection_rf.pkl
-│   ├── intrusion_detection_xgb.pkl
-│   └── intrusion_detection_pycaret.pkl
-│
-└── outputs/
-    ├── model_comparison_results.csv
-    ├── feature_importance.csv
-    └── performance_metrics.json
+
 ```
 
 ---
@@ -430,19 +417,6 @@ network-intrusion-detection/
 **Furqan** | AI Engineer & Lead AI Trainer  
 Saylani Welfare International Trust / Saylani Mass IT Training (SMIT)  
 Karachi, Pakistan
-
-- 🔗 [LinkedIn](https://linkedin.com)
-- 💼 [Fiverr](https://fiverr.com)
-- 📧 [Email](mailto:your.email@example.com)
-
-*Specializing in Machine Learning, Data Science, and Cybersecurity Applications*  
-*Teaching 50+ students in Advanced AI & Data Mining Projects*
-
----
-
-## 📄 License
-
-This project is provided under the **[MIT License](LICENSE)**.
 
 ---
 
